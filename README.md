@@ -8,7 +8,7 @@ A data processing and analysis pipeline created to scratch video, audio, and fin
 4. Download relevant fundamental financial data from WRDS API.
 5. Compute regressional results using 'alpha_calculation.py'.
 
-**References: **
+**References**:
 
 Video Algo Model: https://github.com/Nirmalvekariya/Video-Sentiment-Analysis
 
